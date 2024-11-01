@@ -13,3 +13,5 @@
 
 
 # 💡 Data Modeling 
+Between Dimension Table (Custom_Calender) and Fact Table (Sales_Data) 
+![image](https://github.com/user-attachments/assets/b5ea6eba-e594-4545-ba70-0133eb30bf64)
