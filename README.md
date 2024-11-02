@@ -15,3 +15,12 @@
 # 💡 Data Modeling 
 Between Dimension Table (Custom_Calender) and Fact Table (Sales_Data) 
 ![image](https://github.com/user-attachments/assets/b5ea6eba-e594-4545-ba70-0133eb30bf64)
+
+
+
+# 📊 Dashboard
+
+
+## Link :  https://app.powerbi.com/view?r=eyJrIjoiM2UzMTM4YWYtMTBiYy00NDA3LWE2ODktMzI4MjMzOWEwZTBhIiwidCI6IjY4NzNkZTQyLWJhNDgtNGFmYy1hZjg2LWVmZjcxYjU5ZGU0ZSJ9
+
+![image](https://github.com/user-attachments/assets/d240b7c7-54d2-413c-a9d1-7460ec309ea7)
